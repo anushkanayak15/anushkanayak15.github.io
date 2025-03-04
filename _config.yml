@@ -1,5 +1,47 @@
-title: Anushka Nayak
-logo: /assets/img/anushka_nayak.jpg
-description: need to add here
+# title: Anushka Nayak
+# logo: /assets/img/anushka_nayak.jpg
+# description: need to add here
+# show_downloads: false
+# theme: jekyll-theme-minimal
+title: "✨ Anushka Nayak ✨"
+logo: "/assets/img/anushka_nayak.jpg"
+description: "🚀 Data Science | Software Engineering | Machine Learning Enthusiast 🌎"
 show_downloads: false
 theme: jekyll-theme-minimal
+
+# Customize theme colors and layout
+minimal_mistakes_skin: "aqua"  # Options: default, dark, contrast, neon, etc.
+
+# Navigation Links
+header_pages:
+  - index.md
+  - projects.md
+  - blog.md
+  - contact.md
+
+# Add social links
+social_links:
+  github: anushkanayak15
+  linkedin: anushkanayak15
+  email: anushkanayak15@g.ucla.edu
+
+# Customize Footer
+footer_links:
+  - label: "📧 Contact Me"
+    url: "mailto:anushkanayak15@g.ucla.edu"
+  - label: "💼 LinkedIn"
+    url: "https://www.linkedin.com/in/anushkanayak15"
+  - label: "💻 GitHub"
+    url: "https://github.com/anushkanayak15"
+
+# Enable Analytics (if needed)
+google_analytics: UA-XXXXXXXXX-X
+
+# Add Fancy Fonts (Optional)
+font: "Poppins, sans-serif"
+
+# Hero Image (if supported by the theme)
+hero_image: "/assets/img/hero_banner.jpg"
+
+# Enable Dark Mode Toggle (If using a compatible theme)
+enable_darkmode: true
