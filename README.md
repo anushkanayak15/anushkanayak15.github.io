@@ -73,8 +73,8 @@ _Bachelor of Science in Computer Science with a Minor in Data Science Engineerin
 
 ## Technical Skills
 
-- **Programming Languages**: Python, SQL, Java, React.js, HTML, CSS  
-- **Tools & Technologies**: Tableau, Power BI, Apache Kafka, GitHub, Scala, Figma  
+- **Programming Languages**: Python, C++, SQL, Java, React.js, HTML, CSS  
+- **Tools & Technologies**: Tableau, Power BI, GitHub, Figma  
 - **Machine Learning & NLP**: TensorFlow, Scikit-learn, Natural Language Processing, Neural Networks  
 - **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn, MS Excel, MS PowerPoint  
 
