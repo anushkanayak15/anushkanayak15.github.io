@@ -34,14 +34,4 @@ footer_links:
   - label: "💻 GitHub"
     url: "https://github.com/anushkanayak15"
 
-# Enable Analytics (if needed)
-google_analytics: UA-XXXXXXXXX-X
 
-# Add Fancy Fonts (Optional)
-font: "Poppins, sans-serif"
-
-# Hero Image (if supported by the theme)
-hero_image: "/assets/img/hero_banner.jpg"
-
-# Enable Dark Mode Toggle (If using a compatible theme)
-enable_darkmode: true
