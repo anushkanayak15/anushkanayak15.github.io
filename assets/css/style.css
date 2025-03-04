@@ -14,13 +14,13 @@
 }
 
 /* Add button hover effect */
-button:hover {
+/* button:hover {
     transform: scale(1.1);
     transition: 0.3s;
 }
 
 /* Footer Styling */
-footer {
+/* footer {
     background: rgba(0, 0, 0, 0.8);
     color: white;
     padding: 15px;
@@ -35,5 +35,6 @@ footer a {
 footer a:hover {
     color: #ffffff;
     text-decoration: underline;
-}
- */
+} */
+
+ 
